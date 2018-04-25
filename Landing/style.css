@@ -1,0 +1,59 @@
+
+body {
+	background-color: white;
+	text-align: center;
+	font-family: Montserrat;
+
+}
+
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+.card {
+	background-color: #e4e6e6;
+	margin: 50px;
+
+
+}
+
+#section-blue {
+	background-color: #00CAFF
+
+}
+
+#banner{
+  text-align: center;
+  background-image: url("images/food.jpg");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+  background: linear-gradient(135deg,  rgba(252,81,114,0.3) 0%, 
+rgba(94,119,250,0.5)50%), 
+  background-size: cover;
+}
+
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
